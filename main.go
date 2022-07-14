@@ -73,7 +73,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/epidemic"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/font"
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/fortune" // 运势
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/fortune" 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/funny"   // 笑话
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/genshin"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"
