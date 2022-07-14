@@ -31,11 +31,11 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" 
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager"
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
 
-	_ "github.com/FloatTech/zbputils/job" 
+	_ "github.com/FloatTech/zbputils/job"
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
@@ -57,18 +57,18 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_false" // 服务器监控
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/b14"   // base16384加解密
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu" 
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/b14" // base16384加解密
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili_parse" // b站视频链接解析
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/book_review"    // 哀伤雪刃吧推书记录
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi"     
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choose"         // 选择困难症帮手
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua"   
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"          
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cpstory"        // cp短打
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi"
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choose" // 选择困难症帮手
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua"
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/coser"
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cpstory" // cp短打
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/danbooru"
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"        
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/diana"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/drift_bottle" // 漂流瓶
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/emojimix"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/epidemic"
@@ -79,9 +79,9 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/gif"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/github" // 搜索GitHub仓库
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/guessmusic"
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hs"            // 炉石
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hyaku"         // 百人一首
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/image_finder"  
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hs"    // 炉石
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/hyaku" // 百人一首
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/image_finder"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/inject"        // 注入指令
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/jandan"        // 煎蛋网无聊图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/juejuezi"      // 绝绝子生成器
@@ -90,18 +90,18 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu"          // 摸鱼
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu_calendar" // 摸鱼人日历
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"         // 点歌
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"    
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife"    // 本地老婆
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"       
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/novel"         // 铅笔小说网搜索
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"          
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/omikuji"       
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/qqwife"        
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/reborn"        // 投胎
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode"       // 在线运行代码
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"      
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"        
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score"         // 分数
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu"
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife" // 本地老婆
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/novel" // 铅笔小说网搜索
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/omikuji"
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/qqwife"
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/reborn"  // 投胎
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/runcode" // 在线运行代码
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/saucenao"
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scale"
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/score" // 分数
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/setutime"
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shadiao" // 沙雕app
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/shindan" // 测定
